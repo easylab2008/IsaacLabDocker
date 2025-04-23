@@ -2,9 +2,9 @@
 
 本项目根据[isaacLab官网文档](https://isaac-sim.github.io/IsaacLab/main/index.html) 构建了完整的 isaacLab 2.0 + sim4.5 docker镜像环境（支持桌面图形化）.方便大家在自己的开发机上可一键式启动 isaacLab 2.0 + sim4.5 开发环境，无需做任何安装操作。
 
-[isaacLab 中文文档](https://docs.robotsfan.com/isaaclab/source/setup/ecosystem.html) 
+isaacLab 中文文档可参考： [isaacLab 中文文档](https://docs.robotsfan.com/isaaclab/source/setup/ecosystem.html) 
 
-启动isaacLab 2.0 + sim4.5 docker环境前，需要确保个人开发机已经安装好docker环境:
+启动isaacLab 2.0 + sim4.5 docker环境前，需要确保个人开发机已经安装好docker环境， 具体docker环境配置可参考：
   - [docker环境配置参考](./docker/README.md)
 
 
