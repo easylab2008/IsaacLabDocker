@@ -111,7 +111,7 @@ sudo docker exec -it easylab bash
 
 ## 下载自己的RL训练代码进行训练 样例
 
-<strong style="color: red;">登录到容器后 务必cd 到容器的  /lab目录 后再git clone 自己的项目代码， 这样就能够实现在母机上进行vscode编写代码，容器环境里面自动更新代码，因为容器默认启动后挂载了开发机的/lab目录</strong>
+<strong style="color: red;">登录到容器后 务必cd 到容器的  /lab目录 后再git clone 自己的项目代码， 这样就能够实现在母机上进行vscode编写代码，容器环境里面自动更新代码，因为容器启动后默认挂载了开发机的/lab目录</strong>
 
 
 ```shell
